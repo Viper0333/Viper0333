@@ -11,10 +11,10 @@
 ![SQL](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=&logoColor=black)
 ![JavaScrit](https://img.shields.io/badge/JavaScrit-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![CSS](https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=greem&color=green&cacheSeconds=3600
-)
+![CSS](https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=greem&color=green&cacheSeconds=3600)
 ![HTML5](https://img.shields.io/badge/HTML5-brightgreen?style=for-the-badge&logo=html5&logoColor=blue&labelColor=greem&color=green&cacheSeconds=3600)
 ![Power_Apps](https://img.shields.io/badge/Power_Apps-brightgreen?style=for-the-badge&logo=Power_Apps&logoColor=blue&labelColor=red&color=red&cacheSeconds=3600)
+
 
 
 ### Detalhes
