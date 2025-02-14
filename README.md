@@ -16,14 +16,10 @@
 ![Power_Apps](https://img.shields.io/badge/Power_Apps-brightgreen?style=for-the-badge&logo=Power_Apps&logoColor=blue&labelColor=red&color=red&cacheSeconds=3600)
 
 
-
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viper0333&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Viper0333&repo=Cartorioebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
