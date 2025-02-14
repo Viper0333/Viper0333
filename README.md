@@ -6,8 +6,8 @@
 
 ### Habilidades
 
-![Automation_Anywhere](https://img.shields.io/badge/Automation_Anywhere-FA7343?style=for-the-badge&logo=AA&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Automation_Anywhere](https://img.shields.io/badge/Automation_Anywhere?style=for-the-badge&logo=AA&logoColor=white)
+![PowerAutomate](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![PlSql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
