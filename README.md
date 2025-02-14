@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=greem&color=green&cacheSeconds=3600
 )
 ![HTML5](https://img.shields.io/badge/HTML5-brightgreen?style=for-the-badge&logo=html5&logoColor=blue&labelColor=greem&color=green&cacheSeconds=3600)
-![Power_Apps](https://img.shields.io/badge/Power_Apps-brightgreen?style=for-the-badge&logo=Power_Apps&logoColor=blue&labelColor=red&color=green&cacheSeconds=3600)
+![Power_Apps](https://img.shields.io/badge/Power_Apps-brightgreen?style=for-the-badge&logo=Power_Apps&logoColor=blue&labelColor=red&color=red&cacheSeconds=3600)
 
 
 ### Detalhes
