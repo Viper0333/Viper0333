@@ -22,7 +22,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Viper0333&repo=Cartorioebac&theme=dark)](https://github.com/Viper0333/Viper0333)
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=Viper0333&repo=Cartorioebac&theme=dark](https://site-rpaweb2.vercel.app/))](https://github.com/Viper0333/Viper0333)
 
 
 ### Linguagens utilizadas
